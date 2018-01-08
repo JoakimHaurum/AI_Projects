@@ -1,10 +1,11 @@
 Artificial Intelligence
 =======================
 
-I have always had an interest in artificial intelligence, and have
-therefore tried implementing two different classic algorithms, which
-have been used in games and animation techniques. These are the A\*
-search algorithm and the Boids behavior algorithm.
+I have always had an interest in artificial intelligence, and have therefore tried implementing two different classic algorithms, which have been used in games and animation techniques. These are the A\* search algorithm and the Boids behavior algorithm.
+
+**Table of Contents**
+- [A* search algorithm](#a-search-algorithm)
+- [Boids](#boids)
 
 A\* search algorithm
 --------------------
